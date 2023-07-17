@@ -2,7 +2,7 @@
 
 <p align="center">
   O projeto do "Jogo do Número Secreto" é um jogo interativo desenvolvido em JavaScript, 
-  onde o usuário tenta adivinhar um número gerado aleatoriamente pelo programa. 
+  onde o usuário tenta adivinhar um número gerado aleatoriamente pelo programa, utilizando o reconhecimento de voz do navegador. 
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <p>
   O jogo possui uma interface simples e intuitiva, 
-  permitindo que o usuário insira suas tentativas e receba dicas sobre a proximidade de sua resposta em relação ao número secreto.
+  permitindo que o usuário fale suas tentativas utilizando o reconhecimento de voz e receba dicas sobre a proximidade de sua resposta em relação ao número secreto.
 </p>
 
 <p>Algumas funcionalidades do projeto:</p>
@@ -52,7 +52,7 @@ Essas dicas podem indicar se o número é maior ou menor que a tentativa do usu�
 
 ## 📁 Acesso ao projeto
 
-<p>Para acessar o projeto é só <a href="">"Clicar aqui"</a></p>
+<p>Para acessar o projeto é só <a href="https://numero-secreto-ebon-xi.vercel.app/">"Clicar aqui"</a></p>
 
 ## 👨‍💻 Autor
 
